@@ -1,49 +1,29 @@
-h1{
-    color: red;
-}
 
-h2 {
-    color: purple
-}
-
-#p1{
-    color: orange
-}
-#p2 a{
-    color: orange
-}
-
-.tacos {
-font-size: 15px
-}
-img {
-    height: 200px
-}
-img {
-    width: 200px
-}
-
-h1 {
-    background-color: blue
-}
-
-body {
-    background-color: azure
-
-}
-
-h2 {
-    text-decoration-color: brown
-}
-
-.tacos {
-    text-decoration-line: line-through
-}
 body {
     background-size: cover;
-    background-image: url(Winte.jpg); 
 }
 
 body {
     text-align: centers 
 }
+
+h2 {
+    text-align: center
+}
+
+img {
+    align-content: center
+}    
+a { 
+    color: black
+}
+
+a { 
+    font-style: italic
+}
+
+a { 
+   font-weight: bolder
+}
+
+
